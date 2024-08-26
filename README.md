@@ -20,7 +20,7 @@ Is a Go web application that serves an API that allows people to hosts their wor
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Go" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="Go" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
