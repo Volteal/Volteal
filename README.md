@@ -5,8 +5,8 @@
 Hello There! I'm Volteal or also known as Luna C. Crescent to some people. I am a 33 year old transgirl programmer and gamer from the Netherlands. So you might be asking yourself why the Code Goat name on your nickname. Honestly I really liked the song Code Monkey by Jonathan Coulton when I was younger and I play a Draenei in World of Warcraft who are often refered to by the community as space goats. So I combined the two when making my twitch account!
 
 <p align="left">
-  <a style="padding-right:10px;" href="hhttps://www.twitch.tv/erasvolteal">
-    <img alt="followers" title="Follow me on Twitch" src="https://img.shields.io/twitch/status/voltealthecodegoat?style=for-the-badge&logo=twitch&label=follow on Twitch&labelColor=cccccc&color=dddddd&logoColor=black"/>
+  <a style="padding-right:10px;" href="https://www.twitch.tv/erasvolteal">
+    <img alt="followers" title="Follow me on Twitch" src="https://img.shields.io/twitch/status/erasvolteal?style=for-the-badge&logo=twitch&label=follow on Twitch&labelColor=cccccc&color=dddddd&logoColor=black"/>
   </a>
   <a style="padding-right:10px;" href="https://github.com/volteal?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/volteal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow on Github&logoColor=white"/>
