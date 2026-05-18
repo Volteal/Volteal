@@ -2,7 +2,7 @@
 
 **`Volteal the Code Goat(Developer / Gamer / Dork)`**
 
-Hello There! I'm Volteal or also known as Luna C. Crescent to some people. I am a 33 year old transgirl programmer and gamer from the Netherlands. So you might be asking yourself why the Code Goat name on your nickname. Honestly I really liked the song Code Monkey by Jonathan Coulton when I was younger and I play a Draenei in World of Warcraft who are often refered to by the community as space goats. So I combined the two when making my twitch account!
+Hello There! I'm Volteal or also known as Luna to some people. I am a 33 year old transgirl programmer and gamer from the Netherlands. So you might be asking yourself why the Code Goat name on your nickname. Honestly I really liked the song Code Monkey by Jonathan Coulton when I was younger and I play a Draenei in World of Warcraft who are often refered to by the community as space goats. So I combined the two when making my twitch account!
 
 <p align="left">
   <a style="padding-right:10px;" href="https://www.twitch.tv/erasvolteal">
